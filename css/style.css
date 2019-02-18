@@ -1,0 +1,8 @@
+body{
+    background-color: blueviolet;
+}
+.banner{
+    width:960px;
+    background-image: url('../images/bg.jpg');
+    min-height: 500px;
+}
