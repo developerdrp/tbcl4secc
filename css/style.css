@@ -2,7 +2,7 @@ body{
     background-color: blueviolet;
 }
 .banner{
-    width:960px;
+    width:980px;
     background-image: url('../images/bg.jpg');
     min-height: 500px;
 }
