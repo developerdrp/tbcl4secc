@@ -1,0 +1,31 @@
+.header{
+	background-color: #ccddee;
+	min-height:120px;
+
+}
+.footer{
+	background-color: #ccddee;
+	min-height:120px;
+}
+
+#fixed{
+	position:fixed;
+	top:350px;
+	min-height:100px;
+	
+	background-color: #ff0000;
+	z-index:9999;
+	right:0;
+
+
+
+}
+
+#fixed ul
+{
+	list-style-type: none;
+}
+
+#fixed ul li{
+	display: block;
+}
